@@ -11,6 +11,8 @@
 - ⭐⭐⭐：熟练掌握，在面试中高频遇到，要求将所有的知识点讲透
 - ⭐⭐⭐⭐：深入了解，在面试中高频遇到，不仅要求掌握所有知识点，还需要进行扩展
 
+本篇文章是 `Vue` 相关的面试题集合，主要包含了 `Vue 2.0`、`Vue 3.0`、`Vue-Router`、`Vuex` 和 `axios` 等
+
 <br>
 
 #### Vue 2.x
@@ -993,6 +995,10 @@ const Foo = () => import (/* webpackChunkNamae: 'group-foo' */ './Foo.vue')
 ##### 1、axios 是什么？怎样使用它？怎么解决跨域的问题？(⭐)
 
 `axios` 是一种异步请求，用法和 `ajax` 类似，安装 `npm install axios --save` 即可使用，请求中包括`get、post、put、patch、delete` 等五种请求方式，解决跨域可以在请求头中添加 `Access-Control-Allow-Origin`，也可以在 `index.js` 文件中更改 `proxyTable` 配置等解决跨域问题
+
+<br>
+
+> 在 [行业寒冬下的面试准备【Vue篇】](https://github.com/Mohan710/file-collection/blob/main/file/%E8%A1%8C%E4%B8%9A%E5%AF%92%E5%86%AC%E4%B8%8B%E7%9A%84%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%E3%80%90Vue%E7%AF%87%E3%80%91.pdf) 下载对应的PDF文件
 
 <br>
 
