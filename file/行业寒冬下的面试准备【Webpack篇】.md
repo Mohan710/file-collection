@@ -350,6 +350,3 @@ module.exports = function (source) {
 
 - [行业寒冬下的面试准备【Vue篇】](https://juejin.cn/post/7123908796048474120)
 
-<br>
-
-🧡🧡肝文不易，如果您觉得本文对您准备面试有点帮助，希望能够一键三连🧡🧡

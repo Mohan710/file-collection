@@ -912,9 +912,5 @@ const Foo = () => import (/* webpackChunkNamae: 'group-foo' */ './Foo.vue')
 
 ## 相关文章
 
-- [# 行业寒冬下的面试准备【Webpack篇】](https://juejin.cn/post/7124214145515257893)
+- [ 行业寒冬下的面试准备【Webpack篇】](https://juejin.cn/post/7124214145515257893)
 
-<br>
-
-
-🧡🧡肝文不易，如果您觉得本文对您准备面试有点帮助，希望能够一键三连🧡🧡
